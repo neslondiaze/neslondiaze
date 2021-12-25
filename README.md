@@ -1,5 +1,6 @@
+<h1>Nelson E Diaz P.</h1>
 <h2>Hi there 👋🏿 💪🏿 👨‍💻</h2
-  
+
   
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -12,7 +13,6 @@ const neslondiaze = {
 }
 ```
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
 <table>
   <tbody>
     <tr valign="top">
