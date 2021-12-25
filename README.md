@@ -7,10 +7,18 @@
 
 ```javascript
 const neslondiaze = {
-  pronouns: "he" | "hem",
-  code: [Cobol,Visual Basic, Java, Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Docker],
-}
+  pronouns: "he" | "him",
+  askjMeAbout:["Web dev", "tech", "game"],
+  technologies:{
+      frontEnd:{
+          js: ["React", "Angular"],
+          css: ["Bootstrap"],
+      },
+     backEnd: ["Java", "PHP", "Node"],
+     databases: ["MySql", "Mongo"],
+     otherTechnologies: ["Docker", "Cobol", "Visual Basic"],
+  }
+};
 ```
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
