@@ -10,13 +10,11 @@ const neslondiaze = {
   pronouns: "he" | "him",
   askjMeAbout:["Web dev", "tech", "game"],
   technologies:{
-      frontEnd:{
-          js: ["React", "Angular"],
-          css: ["Bootstrap"],
-      },
-     backEnd: ["Java", "PHP", "Node"],
-     databases: ["MySql", "Mongo"],
+     frontEnd: ["HTML","JavaScript", "ReactJS", "Angular", "CSS", "Bootstrap"],
+     backEnd: ["Java", "PHP", "NodeJS"],
+     databases: ["MySql", "Mongo DB", "Sqlite3"],
      otherTechnologies: ["Docker", "Cobol", "Visual Basic"],
+     misc: ["Firebase", "Socket.IO", "GNU/Linux"]
   }
 };
 ```
@@ -36,8 +34,16 @@ const neslondiaze = {
         <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
     </tr>
   </tbody>
 </table>
 
   ![neslondiaze's github stats](https://github-readme-stats.vercel.app/api?username=neslondiaze&hide=contribs,prs&count_private=true&show_icons=true)
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=neslondiaze.neslondiaze)
