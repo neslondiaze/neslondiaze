@@ -37,12 +37,12 @@ const neslondiaze = {
 ![Foundations of  Cybersecurity](Foundations-of-Cybersecurity.png)
 
 ### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslondiaze&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslondiaze&layout=compact&theme=dark)
 
 ---
 ### Other statistics
 
-![neslondiaze's github stats](https://github-readme-stats.vercel.app/api?username=neslondiaze&hide=contribs,prs&count_private=true&show_icons=true)
+![neslondiaze's github stats](https://github-readme-stats.vercel.app/api?username=neslondiaze&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 
 ---
 
