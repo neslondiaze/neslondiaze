@@ -14,7 +14,8 @@ const neslondiaze = {
      backEnd: ["Java", "PHP", "NodeJS"],
      databases: ["MySql", "Mongo DB", "Sqlite3"],
      otherTechnologies: ["Docker", "Cobol", "Visual Basic"],
-     misc: ["Firebase", "Socket.IO", "GNU/Linux"]
+     misc: ["Firebase", "Socket.IO", "GNU/Linux"],
+     cybersecurity: ["Foundations of  Cybersecurity"]
   }
 };
 ```
