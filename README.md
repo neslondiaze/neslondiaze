@@ -47,7 +47,7 @@ const neslondiaze = {
 ---
 
 ## Course
-![Foundations of  Cybersecurity](Foundations-of-Cybersecurity)
+![Foundations of  Cybersecurity](Foundations-of-Cybersecurity.png)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
