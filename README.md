@@ -1,7 +1,7 @@
 ![Nelson ](github-header-image.png)
 <h2>Nelson Díaz, soy un entusiasta de la computación y la informática, apasionado de la programación y del aprendizaje, 100% autodidacta.</h2>
-<br>
-<h2></h2>Nelson Díaz, I am a computer and IT enthusiast, passionate about programming and learning, 100% self-taught</h2>
+
+<h2>Nelson Díaz, I am a computer and IT enthusiast, passionate about programming and learning, 100% self-taught</h2>
 <h3>👋🏿 💪🏿 👨‍💻</h3>
 
   
