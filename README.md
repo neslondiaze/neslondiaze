@@ -36,6 +36,7 @@ const neslondiaze = {
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neslondiaze.neslondiaze)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslondiaze&layout=compact)
   
 ### Other Accounts 📫
 
