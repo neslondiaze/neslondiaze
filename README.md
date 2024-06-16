@@ -33,8 +33,10 @@ const neslondiaze = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslondiaze&layout=compact)
 
 ---
-Other statistics
+### Other statistics
+
 ![neslondiaze's github stats](https://github-readme-stats.vercel.app/api?username=neslondiaze&hide=contribs,prs&count_private=true&show_icons=true)
+
 ---
 
 
