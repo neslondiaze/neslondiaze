@@ -1,4 +1,4 @@
-![Nelson ](github-header-image.png)
+![Nelson ](Banner-GitHub-Nelsondiaze.png)
 <h2>Soy un entusiasta de la computación y la informática, apasionado de la programación y del aprendizaje, 100% autodidacta.</h2>
 
 <h2>I am a computer and IT enthusiast, passionate about programming and learning, 100% self-taught</h2>
