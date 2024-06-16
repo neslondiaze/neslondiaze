@@ -33,9 +33,7 @@ const neslondiaze = {
 ## Course
 ![Foundations of  Cybersecurity](Foundations-of-Cybersecurity.png)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=neslondiaze.neslondiaze)
+### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neslondiaze&layout=compact)
   
 ### Other Accounts 📫
