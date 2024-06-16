@@ -3,7 +3,7 @@
 
 <h2>I am a computer and IT enthusiast, passionate about programming and learning, 100% self-taught</h2>
 
-### Frace Predilecta.
+### Favorite Phrase.
    El agradecimiento es la Memoria del Corazon.
 
 ###   
