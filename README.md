@@ -4,9 +4,8 @@
 <h2>I am a computer and IT enthusiast, passionate about programming and learning, 100% self-taught</h2>
 
 ### Frace Predilecta.
-   El agradecimiento es la Memoria del Corazon
-
-### Favorite Phrase. Gratitude is the heart's memory
+   El agradecimiento es la Memoria del Corazon.
+   Gratitude is the heart's memory
 
 ---
 <h3>👋🏿 💪🏿 👨‍💻</h3>
